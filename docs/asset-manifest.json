@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Visualization-infectious-diseases/static/css/main.25d280ca.chunk.css",
-    "main.js": "/Visualization-infectious-diseases/static/js/main.3e4aa7f1.chunk.js",
-    "main.js.map": "/Visualization-infectious-diseases/static/js/main.3e4aa7f1.chunk.js.map",
+    "main.js": "/Visualization-infectious-diseases/static/js/main.7434e124.chunk.js",
+    "main.js.map": "/Visualization-infectious-diseases/static/js/main.7434e124.chunk.js.map",
     "runtime-main.js": "/Visualization-infectious-diseases/static/js/runtime-main.b766ace7.js",
     "runtime-main.js.map": "/Visualization-infectious-diseases/static/js/runtime-main.b766ace7.js.map",
     "static/css/2.970744fb.chunk.css": "/Visualization-infectious-diseases/static/css/2.970744fb.chunk.css",
     "static/js/2.a9937efd.chunk.js": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js",
     "static/js/2.a9937efd.chunk.js.map": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js.map",
     "index.html": "/Visualization-infectious-diseases/index.html",
-    "precache-manifest.67f9e11b41607a3f06eb1edb297eff78.js": "/Visualization-infectious-diseases/precache-manifest.67f9e11b41607a3f06eb1edb297eff78.js",
+    "precache-manifest.08720b8602bae7c720429704ef5f6d2c.js": "/Visualization-infectious-diseases/precache-manifest.08720b8602bae7c720429704ef5f6d2c.js",
     "service-worker.js": "/Visualization-infectious-diseases/service-worker.js",
     "static/css/2.970744fb.chunk.css.map": "/Visualization-infectious-diseases/static/css/2.970744fb.chunk.css.map",
     "static/css/main.25d280ca.chunk.css.map": "/Visualization-infectious-diseases/static/css/main.25d280ca.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.970744fb.chunk.css",
     "static/js/2.a9937efd.chunk.js",
     "static/css/main.25d280ca.chunk.css",
-    "static/js/main.3e4aa7f1.chunk.js"
+    "static/js/main.7434e124.chunk.js"
   ]
 }

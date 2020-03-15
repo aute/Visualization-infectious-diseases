@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce7de8918d7ecac4cc9bc68b9d925228",
+    "revision": "a0eae2917c408647d292ae9fca355cff",
     "url": "/Visualization-infectious-diseases/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Visualization-infectious-diseases/static/css/2.970744fb.chunk.css"
   },
   {
-    "revision": "8f21c5901bc56c586099",
+    "revision": "94b5cb85e5474a019a3e",
     "url": "/Visualization-infectious-diseases/static/css/main.25d280ca.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f21c5901bc56c586099",
-    "url": "/Visualization-infectious-diseases/static/js/main.3e4aa7f1.chunk.js"
+    "revision": "94b5cb85e5474a019a3e",
+    "url": "/Visualization-infectious-diseases/static/js/main.7434e124.chunk.js"
   },
   {
     "revision": "8d585ce5032ec86a47d0",
