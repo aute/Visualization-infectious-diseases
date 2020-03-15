@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.25d280ca.chunk.css",
-    "main.js": "/static/js/main.c81490e1.chunk.js",
-    "main.js.map": "/static/js/main.c81490e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.697b6b78.js",
-    "runtime-main.js.map": "/static/js/runtime-main.697b6b78.js.map",
-    "static/css/2.970744fb.chunk.css": "/static/css/2.970744fb.chunk.css",
-    "static/js/2.a9937efd.chunk.js": "/static/js/2.a9937efd.chunk.js",
-    "static/js/2.a9937efd.chunk.js.map": "/static/js/2.a9937efd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1bc432073c256ab932faee4472d4e803.js": "/precache-manifest.1bc432073c256ab932faee4472d4e803.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.970744fb.chunk.css.map": "/static/css/2.970744fb.chunk.css.map",
-    "static/css/main.25d280ca.chunk.css.map": "/static/css/main.25d280ca.chunk.css.map",
-    "static/js/2.a9937efd.chunk.js.LICENSE.txt": "/static/js/2.a9937efd.chunk.js.LICENSE.txt",
-    "static/media/R0.svg": "/static/media/R0.e6a67d76.svg",
-    "static/media/logo.svg": "/static/media/logo.2f42774e.svg",
-    "static/media/thanks.svg": "/static/media/thanks.b19fc257.svg"
+    "main.css": "/Visualization-infectious-diseases/static/css/main.25d280ca.chunk.css",
+    "main.js": "/Visualization-infectious-diseases/static/js/main.3e4aa7f1.chunk.js",
+    "main.js.map": "/Visualization-infectious-diseases/static/js/main.3e4aa7f1.chunk.js.map",
+    "runtime-main.js": "/Visualization-infectious-diseases/static/js/runtime-main.b766ace7.js",
+    "runtime-main.js.map": "/Visualization-infectious-diseases/static/js/runtime-main.b766ace7.js.map",
+    "static/css/2.970744fb.chunk.css": "/Visualization-infectious-diseases/static/css/2.970744fb.chunk.css",
+    "static/js/2.a9937efd.chunk.js": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js",
+    "static/js/2.a9937efd.chunk.js.map": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js.map",
+    "index.html": "/Visualization-infectious-diseases/index.html",
+    "precache-manifest.67f9e11b41607a3f06eb1edb297eff78.js": "/Visualization-infectious-diseases/precache-manifest.67f9e11b41607a3f06eb1edb297eff78.js",
+    "service-worker.js": "/Visualization-infectious-diseases/service-worker.js",
+    "static/css/2.970744fb.chunk.css.map": "/Visualization-infectious-diseases/static/css/2.970744fb.chunk.css.map",
+    "static/css/main.25d280ca.chunk.css.map": "/Visualization-infectious-diseases/static/css/main.25d280ca.chunk.css.map",
+    "static/js/2.a9937efd.chunk.js.LICENSE.txt": "/Visualization-infectious-diseases/static/js/2.a9937efd.chunk.js.LICENSE.txt",
+    "static/media/R0.svg": "/Visualization-infectious-diseases/static/media/R0.e6a67d76.svg",
+    "static/media/logo.svg": "/Visualization-infectious-diseases/static/media/logo.2f42774e.svg",
+    "static/media/thanks.svg": "/Visualization-infectious-diseases/static/media/thanks.b19fc257.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.697b6b78.js",
+    "static/js/runtime-main.b766ace7.js",
     "static/css/2.970744fb.chunk.css",
     "static/js/2.a9937efd.chunk.js",
     "static/css/main.25d280ca.chunk.css",
-    "static/js/main.c81490e1.chunk.js"
+    "static/js/main.3e4aa7f1.chunk.js"
   ]
 }
